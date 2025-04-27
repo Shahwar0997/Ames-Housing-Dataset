@@ -56,7 +56,7 @@ Hyperparameters were optimized using GridSearchCV.
 ## 🚀 How to Run
 1. Clone this repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/Shahwar0997/Ames-Housing-Dataset.git
     ```
 2. Install required libraries:
     ```bash
