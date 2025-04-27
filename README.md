@@ -43,7 +43,7 @@ Hyperparameters were optimized using GridSearchCV.
 |:------------|:------------|
 | `AmesHousing_ML_Notebook.ipynb` | Full data cleaning, EDA, modeling, and evaluation |
 | `README.md` | Project overview and documentation |
-
+| `requirements.txt` | Project dependencies |
 ---
 
 ## 🗂️ Dataset Information
