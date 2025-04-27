@@ -71,5 +71,5 @@ Hyperparameters were optimized using GridSearchCV.
 ---
 
 ## 🎯 Future Work
-- Try ensemble methods (Random Forests, Gradient Boosting, XGBoost) for potentially better performance.
+- Try ensemble methods (Gradient Boosting, XGBoost) for potentially better performance.
 - Explore feature scaling and polynomial features for more complex relationships.
